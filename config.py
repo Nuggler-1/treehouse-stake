@@ -1,0 +1,10 @@
+RPC = 'https://rpc.ankr.com/eth'
+
+SLEEP = [100, 900]
+AMOUNT_TO_DEPOSIT = [0.2, 0.3]
+MAX_GAS_PRICE = 6.2
+RANDOMIZE_ACCOUNTS = True
+
+ERR_ATTEMPTS = 1
+ETH_GAS_MULT = 1.1
+MAX_TX_WAIT = 500
